@@ -3,8 +3,8 @@ reading-list-lw126
 
 A markdown document for FHP LW 126 links
 
-####Reading List  
-#####Online: 
+##Reading List  
+###Online: 
 - [processing.org](http://processing.org)  
 - [openprocessing.org](http://openprocessing.org)  
 - [arduino.cc](http://arduino.cc)  
@@ -15,14 +15,14 @@ A markdown document for FHP LW 126 links
 - [try.github.io](http://try.github.io/levels/1/challenges/1)  
 - programmier Tutorials [http://codacademy.com](http://codacademy.com) / [https://www.codeschool.com](https://www.codeschool.) / [etc](http://lmgtfy.com/?q=online+programming+tutorial)  
 
-#####Offline:  
+###Offline:  
 - [Processing: A Programming Handbook for Visual Designers and Artists](http://processing.org/books/)  
 - [Generative Design](http://processing.org/books/)  
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do)    
 
-####Misc  
-#####andere Sprachen und Technologien:
-######Andere Creative Coding Frameworks  
+##Misc  
+###andere Sprachen und Technologien:
+####Andere Creative Coding Frameworks  
 
 - [http://processingjs.org JavaScript](http://processingjs.org)  
 - [http://basiljs.ch JavaScript](http://basiljs.ch)  
@@ -33,9 +33,11 @@ A markdown document for FHP LW 126 links
 - [http://code.google.com/p/pyprocessing/ python  ](http://code.google.com/p/pyprocessing/)  
 - [http://www.r-project.org R](http://www.r-project.org)  
 - [http://www.regular-expressions.info RegEx](http://www.regular-expressions.info)  
+
+####Web Application Data-Vis    
 - [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming  ](http://www-958.ibm.com/software/analytics/manyeyes/)  
 - [http://geocommons.com NoProgramming  ](http://geocommons.com)  
 
-######Andere Platformen  
+####Andere Platformen  
 - [Raspberry Pi](http://www.raspberrypi.org)  
 - [Teensy Boards](http://www.pjrc.com/store/teensy.html)  
