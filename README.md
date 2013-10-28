@@ -20,9 +20,8 @@ A markdown document for FHP LW 126 links
 - [Generative Design](http://processing.org/books/)  
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do)    
 
-##Misc  
-###andere Sprachen und Technologien:
-####Andere Creative Coding Frameworks  
+###Sprachen und Technologien:
+####Creative Coding Frameworks  
 
 - [http://processingjs.org JavaScript](http://processingjs.org)  
 - [http://basiljs.ch JavaScript](http://basiljs.ch)  
