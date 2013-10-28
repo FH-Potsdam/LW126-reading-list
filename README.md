@@ -13,15 +13,15 @@ A markdown document for FHP LW 126 links
 ###Creative Coding Frameworks  
 
 - [processing.org](http://processing.org)  
-- [http://processingjs.org JavaScript](http://processingjs.org)  
-- [http://code.google.com/p/pyprocessing/ python  ](http://code.google.com/p/pyprocessing/)  
-- [http://basiljs.ch JavaScript](http://basiljs.ch)  
-- [http://d3js.org JavaScript](http://d3js.org)  
-- [http://www.openframeworks.cc C++](http://www.openframeworks.cc)  
-- [http://libcinder.org C++](http://libcinder.org)  
-- [http://polycode.org Lua](http://polycode.org)  
-- [http://www.r-project.org R](http://www.r-project.org)  
-- [http://www.regular-expressions.info RegEx](http://www.regular-expressions.info)  
+- [processingjs.org JavaScript](http://processingjs.org)  
+- [code.google.com/p/pyprocessing/ python  ](http://code.google.com/p/pyprocessing/)  
+- [basiljs.ch JavaScript](http://basiljs.ch)  
+- [d3js.org JavaScript](http://d3js.org)  
+- [www.openframeworks.cc C++](http://www.openframeworks.cc)  
+- [libcinder.org C++](http://libcinder.org)  
+- [polycode.org Lua](http://polycode.org)  
+- [r-project.org R](http://www.r-project.org)  
+- [regular-expressions.info RegEx](http://www.regular-expressions.info)  
 
 ###Physical Computing  
 - [arduino.cc](http://arduino.cc)  
@@ -34,8 +34,9 @@ A markdown document for FHP LW 126 links
 ###Tutorials  
 - [try.github.io](http://try.github.io/levels/1/challenges/1)  
 - [learncodethehardway.org](http://learncodethehardway.org)  
-- [http://codacademy.com](http://codacademy.com)  
-- [https://www.codeschool.com](https://www.codeschool.) 
+- [codacademy.com](http://codacademy.com)  
+- [codeschool.com](https://www.codeschool.) 
+- [List of »Nature of Code« Episodes by Daniel Shiffman](https://gist.github.com/Powder/7205813)
 - [etc](http://lmgtfy.com/?q=online+programming+tutorial)  
 
 ###Languages  
