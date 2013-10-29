@@ -3,9 +3,7 @@ reading-list-lw126
 
 A markdown document for FHP LW 126 links
  
-- [stackoverflow.com](http://stackoverflow.com)  
-
-##Books:  
+##Books  
 - [Processing: A Programming Handbook for Visual Designers and Artists](http://processing.org/books/)  
 - [Generative Design](http://processing.org/books/)  
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do)    
@@ -48,3 +46,6 @@ A markdown document for FHP LW 126 links
 
 ###Networks  
 - [openprocessing.org](http://openprocessing.org)  
+
+###Get Help / Ask Questions  
+- [stackoverflow.com](http://stackoverflow.com)  
