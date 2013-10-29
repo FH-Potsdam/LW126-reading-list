@@ -8,7 +8,7 @@ A markdown document for FHP LW 126 links
 - [Generative Design](http://processing.org/books/)  
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do)    
 
-###Creative Coding Frameworks  
+##Creative Coding Frameworks  
 
 - [processing.org](http://processing.org)  
 - [processingjs.org JavaScript](http://processingjs.org)  
@@ -21,15 +21,15 @@ A markdown document for FHP LW 126 links
 - [r-project.org R](http://www.r-project.org)  
 - [regular-expressions.info RegEx](http://www.regular-expressions.info)  
 
-###Physical Computing  
+##Physical Computing  
 - [arduino.cc](http://arduino.cc)  
 - [fritzing.org](http://fritzing.org)  
 
-###Web Application Data-Vis    
+##Web Application Data-Vis    
 - [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming  ](http://www-958.ibm.com/software/analytics/manyeyes/)  
 - [http://geocommons.com NoProgramming  ](http://geocommons.com)  
 
-###Tutorials  
+##Tutorials  
 - [try.github.io](http://try.github.io/levels/1/challenges/1)  
 - [learncodethehardway.org](http://learncodethehardway.org)  
 - [codacademy.com](http://codacademy.com)  
@@ -37,15 +37,15 @@ A markdown document for FHP LW 126 links
 - [List of »Nature of Code« Episodes by Daniel Shiffman](https://gist.github.com/Powder/7205813)
 - [etc](http://lmgtfy.com/?q=online+programming+tutorial)  
 
-###Languages  
+##Languages  
 - [daringfireball.net Markdown Referenz](http://daringfireball.net/projects/markdown/)  
 
-###Hardware   
+##Hardware   
 - [Raspberry Pi](http://www.raspberrypi.org)  
 - [Teensy Boards](http://www.pjrc.com/store/teensy.html)  
 
-###Networks  
+##Networks  
 - [openprocessing.org](http://openprocessing.org)  
 
-###Get Help / Ask Questions  
+##Get Help / Ask Questions  
 - [stackoverflow.com](http://stackoverflow.com)  
