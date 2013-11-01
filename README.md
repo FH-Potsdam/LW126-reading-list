@@ -21,6 +21,7 @@ A markdown document for FHP LW 126 links
 - [polycode.org Lua](http://polycode.org)  
 - [r-project.org R](http://www.r-project.org)  
 - [vvvv.org](http://www.vvvv.org/)  
+- [vvvv.js JavaScript](https://github.com/zauner/vvvv.js)
 - [regular-expressions.info RegEx](http://www.regular-expressions.info)  
 
 ##Physical Computing  
