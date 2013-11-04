@@ -10,23 +10,22 @@ A markdown document for FHP LW 126 links
 
 ##Creative Coding Frameworks  
 
-- [processing.org](http://processing.org)  
-- [processingjs.org JavaScript](http://processingjs.org)  
-- [code.google.com/p/pyprocessing/ python  ](http://code.google.com/p/pyprocessing/)  
-- [ruby-processing ruby](https://github.com/jashkenas/ruby-processing)  
-- [basiljs.ch JavaScript](http://basiljs.ch)  
-- [d3js.org JavaScript](http://d3js.org)  
-- [www.openframeworks.cc C++](http://www.openframeworks.cc)  
-- [libcinder.org C++](http://libcinder.org)  
-- [polycode.org Lua](http://polycode.org)  
-- [r-project.org R](http://www.r-project.org)  
-- [vvvv.org](http://www.vvvv.org/)  
-- [vvvv.js JavaScript](https://github.com/zauner/vvvv.js)
-- [regular-expressions.info RegEx](http://www.regular-expressions.info)  
+- [__processing.org__ Processing/Java](http://processing.org)  
+- [__processingjs.org__ JavaScript](http://processingjs.org)  
+- [__code.google.com/p/pyprocessing/__ Python](http://code.google.com/p/pyprocessing/)  
+- [__ruby-processing__ Ruby](https://github.com/jashkenas/ruby-processing)  
+- [__basiljs.ch__ JavaScript](http://basiljs.ch)  
+- [__d3js.org__ JavaScript](http://d3js.org)  
+- [__openframeworks__ C++](http://www.openframeworks.cc)  
+- [__cinder__ C++](http://libcinder.org)  
+- [__polycode__ Lua](http://polycode.org)  
+- [__r-project__ R](http://www.r-project.org)  
+- [__vvvv__ vvvv](http://www.vvvv.org/)  
+- [__vvvv.js__ JavaScript](https://github.com/zauner/vvvv.js)
 
 ##Physical Computing  
-- [arduino.cc](http://arduino.cc)  
-- [fritzing.org](http://fritzing.org)  
+- [__arduino__](http://arduino.cc)  
+- [__fritzing__](http://fritzing.org)  
 
 ##Keyboard Hack  
 
@@ -62,6 +61,7 @@ A markdown document for FHP LW 126 links
 
 ##Languages  
 - [daringfireball.net Markdown Referenz](http://daringfireball.net/projects/markdown/)  
+- [regular-expressions.info RegEx](http://www.regular-expressions.info)  
 
 ##Hardware   
 - [Raspberry Pi](http://www.raspberrypi.org)  
