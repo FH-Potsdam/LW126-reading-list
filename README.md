@@ -28,6 +28,24 @@ A markdown document for FHP LW 126 links
 - [arduino.cc](http://arduino.cc)  
 - [fritzing.org](http://fritzing.org)  
 
+##Keyboard Hack  
+
+###Keyboard Hack Applications  
+- [Apptivate Quick Launch App Mac](http://www.apptivateapp.com)  
+- [Alfred Quick Launch App Mac](http://www.alfredapp.com)  
+- [Quicksilver Quick Launch App Mac](http://qsapp.com)  
+- [Keyboard Maestro Keystroke Remapping and much more Mac](http://www.keyboardmaestro.com/main/)  
+- [KeyRemap4MacBook Keystroke Remapping and much more Mac](https://pqrs.org/macosx/keyremap4macbook/index.html.en)  
+- [bome Keystroke 2 MIDI Win & Mac](http://www.bome.com/products/miditranslator/overview/osx)  
+- [Pinfinder Processing](https://github.com/FH-Potsdam/Pinfinder)  
+
+
+###Keyboard Hack Tutorials    
+- ["Hacking a USB Keyboard" instructables.com](http://www.instructables.com/id/Hacking-a-USB-Keyboard/step3/A-note-on-pin-layouts-and-shift-registers/)  
+- ["Keyboardhack" www.arduino-tutorial.de](http://www.arduino-tutorial.de/2010/06/keyboardhack/)  
+- ["Keyboard-Hack / Einleitung" physical-computing.de](http://www.physical-computing.de/blog/2008/04/keyboard-hack-einleitung/)
+
+
 ##Web Application Data-Vis    
 - [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming  ](http://www-958.ibm.com/software/analytics/manyeyes/)  
 - [http://geocommons.com NoProgramming  ](http://geocommons.com)  
