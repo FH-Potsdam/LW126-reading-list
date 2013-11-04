@@ -32,6 +32,7 @@ A markdown document for FHP LW 126 links
 
 ##Tutorials  
 - [try.github.io](http://try.github.io/levels/1/challenges/1)  
+- [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
 - [learncodethehardway.org](http://learncodethehardway.org)  
 - [codacademy.com](http://codacademy.com)  
 - [codeschool.com](https://www.codeschool.) 
@@ -51,3 +52,7 @@ A markdown document for FHP LW 126 links
 
 ##Get Help / Ask Questions  
 - [stackoverflow.com](http://stackoverflow.com)  
+
+##Version Control  
+- [git](http://git-scm.com)  
+
