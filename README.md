@@ -31,13 +31,14 @@ A markdown document for FHP LW 126 links
 ##Keyboard Hack  
 
 ###Keyboard Hack Applications  
-- [Apptivate Quick Launch App Mac](http://www.apptivateapp.com)  
-- [Alfred Quick Launch App Mac](http://www.alfredapp.com)  
-- [Quicksilver Quick Launch App Mac](http://qsapp.com)  
-- [Keyboard Maestro Keystroke Remapping and much more Mac](http://www.keyboardmaestro.com/main/)  
-- [KeyRemap4MacBook Keystroke Remapping and much more Mac](https://pqrs.org/macosx/keyremap4macbook/index.html.en)  
-- [bome Keystroke 2 MIDI Win & Mac](http://www.bome.com/products/miditranslator/overview/osx)  
-- [Pinfinder Processing](https://github.com/FH-Potsdam/Pinfinder)  
+- [__Apptivate__ Quick Launch App Mac](http://www.apptivateapp.com)  
+- [__Alfred__ Quick Launch App Mac](http://www.alfredapp.com)  
+- [__Quicksilver__ Quick Launch App Mac](http://qsapp.com)  
+- [__Keyboard Maestro__ Keystroke Remapping and much more Mac](http://www.keyboardmaestro.com/main/)  
+- [__KeyRemap4MacBook__ Keystroke Remapping and much more Mac](https://pqrs.org/macosx/keyremap4macbook/index.html.en)  
+- [__bome__ Keystroke 2 MIDI Win & Mac](http://www.bome.com/products/miditranslator/overview/osx)  
+- [__Key Codes__ displays pressed key codes Mac](http://manytricks.com/keycodes/)  
+- [__Pinfinder__ Processing](https://github.com/FH-Potsdam/Pinfinder)  
 
 
 ###Keyboard Hack Tutorials    
