@@ -13,6 +13,7 @@ A markdown document for FHP LW 126 links
 - [processing.org](http://processing.org)  
 - [processingjs.org JavaScript](http://processingjs.org)  
 - [code.google.com/p/pyprocessing/ python  ](http://code.google.com/p/pyprocessing/)  
+- [ruby-processing ruby](https://github.com/jashkenas/ruby-processing)  
 - [basiljs.ch JavaScript](http://basiljs.ch)  
 - [d3js.org JavaScript](http://d3js.org)  
 - [www.openframeworks.cc C++](http://www.openframeworks.cc)  
@@ -20,6 +21,7 @@ A markdown document for FHP LW 126 links
 - [polycode.org Lua](http://polycode.org)  
 - [r-project.org R](http://www.r-project.org)  
 - [vvvv.org](http://www.vvvv.org/)  
+- [vvvv.js JavaScript](https://github.com/zauner/vvvv.js)
 - [regular-expressions.info RegEx](http://www.regular-expressions.info)  
 
 ##Physical Computing  
