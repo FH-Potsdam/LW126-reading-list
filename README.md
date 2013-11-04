@@ -78,3 +78,8 @@ A markdown document for FHP LW 126 links
 - [svn](http://subversion.apache.org)  
 - [cvs](http://www.nongnu.org/cvs/)  
 
+##Data Formats  
+- [JSON JavaScript Object Notation](http://json.org)  
+- [XML Extensible Markup Language](http://www.w3.org/XML/)  
+- [TOML Tom's Obvious, Minimal Language](https://github.com/mojombo/toml)    
+
