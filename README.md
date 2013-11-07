@@ -58,6 +58,7 @@ A markdown document for FHP LW 126 links
 - [codeschool.com](https://www.codeschool.) 
 - [List of »Nature of Code« Episodes by Daniel Shiffman](https://gist.github.com/Powder/7205813)
 - [etc](http://lmgtfy.com/?q=online+programming+tutorial)  
+- [The CLI (Command Line Interface) Crash Course (Win, Mac, Linux)](http://cli.learncodethehardway.org)  
 
 ##Languages  
 - [daringfireball.net Markdown Referenz](http://daringfireball.net/projects/markdown/)  
@@ -66,6 +67,28 @@ A markdown document for FHP LW 126 links
 ##Hardware   
 - [Raspberry Pi](http://www.raspberrypi.org)  
 - [Teensy Boards](http://www.pjrc.com/store/teensy.html)  
+
+##Software  
+- [Mac Terminal](http://guides.macrumors.com/Terminal)  
+- [__iTerm2__ Terminal on steroids ](http://www.iterm2.com/#/section/home)  
+- [__cygwin__ Linux terminal look and feel environment for Windows](http://www.cygwin.com)  
+- [__Sublime Text__ Editor](http://www.sublimetext.com)  
+- [__Node.js__ Server-side JavaScript](http://nodejs.org)  
+- [__tree__ programm](http://en.wikipedia.org/wiki/Tree_(Unix))  
+- [__spark__ programm](http://zachholman.com/spark/)  
+- [Windows Github.app](http://windows.github.com)  
+- [Mac Github.app](http://mac.github.com)  
+
+
+##Package Manager  
+- [__Package Control__ The Sublime Text package manager](https://sublime.wbond.net)  
+- [Processing Modes](http://processing.org/reference/environment/#Programming_modes)  
+- [npm (Node Packaged Modules) node.js package manager](https://npmjs.org)  
+- [__Homebrew__ The missing package manager for OS X](http://brew.sh)  
+- [__apt-get__ Ubuntu and Debian package manager](http://linux.die.net/man/8/apt-get)  
+- [__apt-cyg__ package manager for cygwin](https://code.google.com/p/apt-cyg/)  
+- [__Scoop__ package manager for Windows](http://scoop.sh)  
+
 
 ##Networks  
 - [Github](https://github.com)  
@@ -85,5 +108,6 @@ A markdown document for FHP LW 126 links
 - [TOML Tom's Obvious, Minimal Language](https://github.com/mojombo/toml)    
 
 ##Misc  
-- [Kevin Slavin: How algorithms shape our world](http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world.html)
+- [Kevin Slavin: How algorithms shape our world](http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world.html)  
+- [Fun with Terminal "telnet towel.blinkenlights.nl"](http://www.blinkenlights.nl/services.html)  
 
