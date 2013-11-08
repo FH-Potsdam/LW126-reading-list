@@ -57,7 +57,7 @@ A markdown document for FHP LW 126 links
 - [codacademy.com](http://codacademy.com)  
 - [codeschool.com](https://www.codeschool.) 
 - [List of »Nature of Code« Episodes by Daniel Shiffman](https://gist.github.com/Powder/7205813)
-- [etc](http://lmgtfy.com/?q=online+programming+tutorial)  
+- [__Fun Programming__ Videos for learning creative programming](http://funprogramming.org)  
 - [The CLI (Command Line Interface) Crash Course (Win, Mac, Linux)](http://cli.learncodethehardway.org)  
 
 ##Languages  
