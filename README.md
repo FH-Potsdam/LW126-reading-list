@@ -21,7 +21,8 @@ A markdown document for FHP LW 126 links
 - [__polycode__ Lua](http://polycode.org)  
 - [__r-project__ R](http://www.r-project.org)  
 - [__vvvv__ vvvv](http://www.vvvv.org/)  
-- [__vvvv.js__ JavaScript](https://github.com/zauner/vvvv.js)
+- [__vvvv.js__ JavaScript](https://github.com/zauner/vvvv.js)  
+- [__NetLogo__](http://ccl.northwestern.edu/netlogo/)  
 
 ##Physical Computing  
 - [__arduino__](http://arduino.cc)  
