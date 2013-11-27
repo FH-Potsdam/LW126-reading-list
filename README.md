@@ -108,6 +108,13 @@ A markdown document for FHP LW 126 links
 - [XML Extensible Markup Language](http://www.w3.org/XML/)  
 - [TOML Tom's Obvious, Minimal Language](https://github.com/mojombo/toml)    
 
+##Eyetracking  
+- [Eyewriter](http://eyewriter.org)
+- [Graffiti Analysis](http://graffitianalysis.com)
+- [GML (Grafitti Markup Language)](http://www.graffitimarkuplanguage.com)
+- [Processing Easy Eye Tracker Plugin (PEEP)](http://text20.net/node/14)
+
+
 ##Misc  
 - [Kevin Slavin: How algorithms shape our world](http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world.html)  
 - [Fun with Terminal "telnet towel.blinkenlights.nl"](http://www.blinkenlights.nl/services.html)  
