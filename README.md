@@ -60,6 +60,7 @@ A markdown document for FHP LW 126 links
 - [List of »Nature of Code« Episodes by Daniel Shiffman](https://gist.github.com/Powder/7205813)
 - [__Fun Programming__ Videos for learning creative programming](http://funprogramming.org)  
 - [The CLI (Command Line Interface) Crash Course (Win, Mac, Linux)](http://cli.learncodethehardway.org)  
+- [__learn.adafruit__ Arduino Tutorials](http://learn.adafruit.com)  
 
 ##Languages  
 - [daringfireball.net Markdown Referenz](http://daringfireball.net/projects/markdown/)  
@@ -79,6 +80,7 @@ A markdown document for FHP LW 126 links
 - [__spark__ programm](http://zachholman.com/spark/)  
 - [Windows Github.app](http://windows.github.com)  
 - [Mac Github.app](http://mac.github.com)  
+- [__Duration.app__ is a timeline for creative coding](http://www.duration.cc)  
 
 
 ##Package Manager  
