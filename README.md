@@ -117,6 +117,9 @@ A markdown document for FHP LW 126 links
 - [Processing Easy Eye Tracker Plugin (PEEP)](http://text20.net/node/14)
 
 
+##FAQ's  
+- [UNIX](http://hayne.net/MacDev/Notes/unixFAQ.html)  
+
 ##Misc  
 - [Kevin Slavin: How algorithms shape our world](http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world.html)  
 - [Fun with Terminal "telnet towel.blinkenlights.nl"](http://www.blinkenlights.nl/services.html)  
