@@ -27,6 +27,7 @@ A markdown document for FHP LW 126 links
 ##Physical Computing  
 - [__arduino__](http://arduino.cc)  
 - [__fritzing__](http://fritzing.org)  
+- [__micropython__](http://micropython.org)  
 
 ##Keyboard Hack  
 
