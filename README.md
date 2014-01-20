@@ -98,6 +98,9 @@ A markdown document for FHP LW 126 links
 - [Github](https://github.com)  
 - [openprocessing.org](http://openprocessing.org)  
 
+##Maps  
+- [map school by Tom MacWright](https://github.com/tmcw/mapschool)  
+
 ##Get Help / Ask Questions  
 - [stackoverflow.com](http://stackoverflow.com)  
 
