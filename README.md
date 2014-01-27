@@ -49,8 +49,8 @@ A markdown document for FHP LW 126 links
 
 
 ##Web Application Data-Vis    
-- [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming  ](http://www-958.ibm.com/software/analytics/manyeyes/)  
-- [http://geocommons.com NoProgramming  ](http://geocommons.com)  
+- [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming](http://www-958.ibm.com/software/analytics/manyeyes/)  
+- [http://geocommons.com NoProgramming](http://geocommons.com)  
 
 ##Tutorials  
 - [try.github.io](http://try.github.io/levels/1/challenges/1)  
@@ -92,7 +92,11 @@ A markdown document for FHP LW 126 links
 - [__apt-get__ Ubuntu and Debian package manager](http://linux.die.net/man/8/apt-get)  
 - [__apt-cyg__ package manager for cygwin](https://code.google.com/p/apt-cyg/)  
 - [__Scoop__ package manager for Windows](http://scoop.sh)  
+- [__Bower__ package manager for web development](http://bower.io)  
 
+##Touch  
+- [__Hammer.js__ A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)  
+- [__npTuioClient__ TUIO Client plugin for web browsers](https://github.com/fajran/npTuioClient)
 
 ##Networks  
 - [Github](https://github.com)  
