@@ -62,6 +62,7 @@ A markdown document for FHP LW 126 links
 - [__Fun Programming__ Videos for learning creative programming](http://funprogramming.org)  
 - [The CLI (Command Line Interface) Crash Course (Win, Mac, Linux)](http://cli.learncodethehardway.org)  
 - [__learn.adafruit__ Arduino Tutorials](http://learn.adafruit.com)  
+- [Github Guides](http://guides.github.com)  
 
 ##Languages  
 - [daringfireball.net Markdown Referenz](http://daringfireball.net/projects/markdown/)  
