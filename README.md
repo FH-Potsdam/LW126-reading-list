@@ -63,6 +63,7 @@ A markdown document for FHP LW 126 links
 - [The CLI (Command Line Interface) Crash Course (Win, Mac, Linux)](http://cli.learncodethehardway.org)  
 - [__learn.adafruit__ Arduino Tutorials](http://learn.adafruit.com)  
 - [Github Guides](http://guides.github.com)  
+- [cartodb.com tutorials](http://developers.cartodb.com/tutorials.html)
 
 ##Languages  
 - [daringfireball.net Markdown Referenz](http://daringfireball.net/projects/markdown/)  
