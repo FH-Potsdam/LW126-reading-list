@@ -13,6 +13,7 @@ A markdown document for FHP LW 126 links
 - [__processing.org__ Processing/Java](http://processing.org)  
 - [__processingjs.org__ JavaScript](http://processingjs.org)  
 - [__code.google.com/p/pyprocessing/__ Python](http://code.google.com/p/pyprocessing/)  
+- [__plotdevice__ Python](http://plotdevice.io/)
 - [__ruby-processing__ Ruby](https://github.com/jashkenas/ruby-processing)  
 - [__basiljs.ch__ JavaScript](http://basiljs.ch)  
 - [__d3js.org__ JavaScript](http://d3js.org)  
@@ -47,6 +48,10 @@ A markdown document for FHP LW 126 links
 - ["Keyboardhack" www.arduino-tutorial.de](http://www.arduino-tutorial.de/2010/06/keyboardhack/)  
 - ["Keyboard-Hack / Einleitung" physical-computing.de](http://www.physical-computing.de/blog/2008/04/keyboard-hack-einleitung/)
 
+
+###Lists of Things  
+
+- [__reSRC__ find and tag free programming learning resources](http://resrc.io/)  
 
 ##Web Application Data-Vis    
 - [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming](http://www-958.ibm.com/software/analytics/manyeyes/)  
