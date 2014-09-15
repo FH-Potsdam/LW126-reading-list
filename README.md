@@ -49,6 +49,10 @@ A markdown document for FHP LW 126 links
 - ["Keyboard-Hack / Einleitung" physical-computing.de](http://www.physical-computing.de/blog/2008/04/keyboard-hack-einleitung/)
 
 
+###Lists of Things  
+
+- [__reSRC__ find and tag free programming learning resources](http://resrc.io/)  
+
 ##Web Application Data-Vis    
 - [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming](http://www-958.ibm.com/software/analytics/manyeyes/)  
 - [http://geocommons.com NoProgramming](http://geocommons.com)  
