@@ -40,6 +40,8 @@ A markdown document for FHP LW 126 links
 - [__KeyRemap4MacBook__ Keystroke Remapping and much more Mac](https://pqrs.org/macosx/keyremap4macbook/index.html.en)  
 - [__bome__ Keystroke 2 MIDI Win & Mac](http://www.bome.com/products/miditranslator/overview/osx)  
 - [__Key Codes__ displays pressed key codes Mac](http://manytricks.com/keycodes/)  
+- [__EventGhost__ automation tool for MS Windows](http://www.eventghost.org/)  
+- [__Promixis__ Home and Automation Software (Cross Platform)](http://www.promixis.com/)  
 - [__Pinfinder__ Processing](https://github.com/FH-Potsdam/Pinfinder)  
 
 
