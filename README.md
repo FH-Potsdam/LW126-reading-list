@@ -13,6 +13,7 @@ A markdown document for FHP LW 126 links
 - [__processing.org__ Processing/Java](http://processing.org)  
 - [__processingjs.org__ JavaScript](http://processingjs.org)  
 - [__code.google.com/p/pyprocessing/__ Python](http://code.google.com/p/pyprocessing/)  
+- [__plotdevice__ Python](http://plotdevice.io/)
 - [__ruby-processing__ Ruby](https://github.com/jashkenas/ruby-processing)  
 - [__basiljs.ch__ JavaScript](http://basiljs.ch)  
 - [__d3js.org__ JavaScript](http://d3js.org)  
@@ -39,6 +40,8 @@ A markdown document for FHP LW 126 links
 - [__KeyRemap4MacBook__ Keystroke Remapping and much more Mac](https://pqrs.org/macosx/keyremap4macbook/index.html.en)  
 - [__bome__ Keystroke 2 MIDI Win & Mac](http://www.bome.com/products/miditranslator/overview/osx)  
 - [__Key Codes__ displays pressed key codes Mac](http://manytricks.com/keycodes/)  
+- [__EventGhost__ automation tool for MS Windows](http://www.eventghost.org/)  
+- [__Promixis__ Home and Automation Software (Cross Platform)](http://www.promixis.com/)  
 - [__Pinfinder__ Processing](https://github.com/FH-Potsdam/Pinfinder)  
 
 
@@ -47,6 +50,10 @@ A markdown document for FHP LW 126 links
 - ["Keyboardhack" www.arduino-tutorial.de](http://www.arduino-tutorial.de/2010/06/keyboardhack/)  
 - ["Keyboard-Hack / Einleitung" physical-computing.de](http://www.physical-computing.de/blog/2008/04/keyboard-hack-einleitung/)
 
+
+###Lists of Things  
+
+- [__reSRC__ find and tag free programming learning resources](http://resrc.io/)  
 
 ##Web Application Data-Vis    
 - [http://www-958.ibm.com/software/analytics/manyeyes/ NoProgramming](http://www-958.ibm.com/software/analytics/manyeyes/)  
