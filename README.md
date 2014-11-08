@@ -85,6 +85,11 @@ A markdown document for FHP LW 126 links
 - [Mac Github.app](http://mac.github.com)  
 - [__Duration.app__ is a timeline for creative coding](http://www.duration.cc)  
 
+##Color  
+
+- [colourco.de](http://colourco.de/)
+- [adobe.color.com](https://color.adobe.com)
+- [colorbrewer2.org](http://colorbrewer2.org/)
 
 ##Package Manager  
 - [__Package Control__ The Sublime Text package manager](https://sublime.wbond.net)  
